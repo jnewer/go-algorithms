@@ -1,1 +1,1 @@
-# go-algorithms
+# go-algorithms exercise
